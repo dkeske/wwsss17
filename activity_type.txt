@@ -1,0 +1,517 @@
+{'AEROBICS': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Aerobics',
+                           'earlyMorning': '${distanceOrTime} Early Morning '
+                                           'Aerobics',
+                           'evening': '${distanceOrTime} Evening Aerobics',
+                           'lateEvening': '${distanceOrTime} Late Evening '
+                                          'Aerobics',
+                           'morning': '${distanceOrTime} Morning Aerobics',
+                           'night': '${distanceOrTime} Night Aerobics',
+                           'noon': '${distanceOrTime} Noon Aerobics'},
+              'title': 'Aerobics',
+              'verb': {'present': {'female': 'doing aerobics',
+                                   'male': 'doing aerobics',
+                                   'part': 'doing aerobics'}}},
+ 'AMERICAN_FOOTBALL': {'title': 'Football, American'},
+ 'ARCHERY': {'title': 'Archery'},
+ 'ATHLETICS_JUMPS': {'title': 'Athletics - Jumps'},
+ 'ATHLETICS_SPRINTS': {'title': 'Athletics - Sprints'},
+ 'ATHLETICS_THROWS': {'title': 'Athletics - Throws'},
+ 'BADMINTON': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                         'Badminton',
+                            'earlyMorning': '${distanceOrTime} Early Morning '
+                                            'Badminton',
+                            'evening': '${distanceOrTime} Evening Badminton',
+                            'lateEvening': '${distanceOrTime} Late Evening '
+                                           'Badminton',
+                            'morning': '${distanceOrTime} Morning Badminton',
+                            'night': '${distanceOrTime} Night Badminton',
+                            'noon': '${distanceOrTime} Noon Badminton'},
+               'title': 'Badminton',
+               'verb': {'present': {'female': 'playing badminton',
+                                    'male': 'playing badminton',
+                                    'part': 'playing badminton'}}},
+ 'BASEBALL': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Baseball',
+                           'earlyMorning': '${distanceOrTime} Early Morning '
+                                           'Baseball',
+                           'evening': '${distanceOrTime} Evening Baseball',
+                           'lateEvening': '${distanceOrTime} Late Evening '
+                                          'Baseball',
+                           'morning': '${distanceOrTime} Morning Baseball',
+                           'night': '${distanceOrTime} Night Baseball',
+                           'noon': '${distanceOrTime} Noon Baseball'},
+              'title': 'Baseball',
+              'verb': {'present': {'female': 'playing baseball',
+                                   'male': 'playing baseball',
+                                   'part': 'playing baseball'}}},
+ 'BASKETBALL': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                          'Basketball',
+                             'earlyMorning': '${distanceOrTime} Early Morning '
+                                             'Basketball',
+                             'evening': '${distanceOrTime} Evening Basketball',
+                             'lateEvening': '${distanceOrTime} Late Evening '
+                                            'Basketball',
+                             'morning': '${distanceOrTime} Morning Basketball',
+                             'night': '${distanceOrTime} Night Basketball',
+                             'noon': '${distanceOrTime} Noon Basketball'},
+                'title': 'Basketball',
+                'verb': {'present': {'female': 'playing basketball',
+                                     'male': 'playing basketball',
+                                     'part': 'playing basketball'}}},
+ 'BEACH_VOLLEY': {'title': 'Volleyball, beach'},
+ 'BOWLING': {'title': 'Bowling'},
+ 'BOXING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Sparing',
+                         'earlyMorning': '${distanceOrTime} Early Morning '
+                                         'Sparing',
+                         'evening': '${distanceOrTime} Evening Sparing',
+                         'lateEvening': '${distanceOrTime} Late Evening '
+                                        'Sparing',
+                         'morning': '${distanceOrTime} Morning Sparing',
+                         'night': '${distanceOrTime} Night Sparing',
+                         'noon': '${distanceOrTime} Noon Sparing'},
+            'title': 'Boxing',
+            'verb': {'present': {'female': 'boxing',
+                                 'male': 'boxing',
+                                 'part': 'boxing'}}},
+ 'BRISK_WALKING': {'title': 'Brisk walking'},
+ 'CALISTHENICS': {'title': 'Calisthenics'},
+ 'CIRCUIT_TRAINING': {'title': 'Circuit Training'},
+ 'CLIMBING': {'title': 'Climbing'},
+ 'CRICKET': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Cricket',
+                          'earlyMorning': '${distanceOrTime} Early Morning '
+                                          'Cricket',
+                          'evening': '${distanceOrTime} Evening Cricket',
+                          'lateEvening': '${distanceOrTime} Late Evening '
+                                         'Cricket',
+                          'morning': '${distanceOrTime} Morning Cricket',
+                          'night': '${distanceOrTime} Night Cricket',
+                          'noon': '${distanceOrTime} Noon Cricket'},
+             'title': 'Cricket',
+             'verb': {'present': {'female': 'playing cricket',
+                                  'male': 'playing cricket',
+                                  'part': 'playing cricket'}}},
+ 'CROSSFIT': {'title': 'Circuit Training'},
+ 'CROSS_TRAINING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                              'Cross Training',
+                                 'earlyMorning': '${distanceOrTime} Early '
+                                                 'Morning Cross Training',
+                                 'evening': '${distanceOrTime} Evening Cross '
+                                            'Training',
+                                 'lateEvening': '${distanceOrTime} Late '
+                                                'Evening Cross Training',
+                                 'morning': '${distanceOrTime} Morning Cross '
+                                            'Training',
+                                 'night': '${distanceOrTime} Night Cross '
+                                          'Training',
+                                 'noon': '${distanceOrTime} Noon Cross '
+                                         'Training'},
+                    'title': 'Elliptical Training',
+                    'verb': {'present': {'female': 'doing cross training',
+                                         'male': 'doing cross training',
+                                         'part': 'doing cross training'}}},
+ 'CYCLING_SPORT': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                             'Sport Bike Ride',
+                                'earlyMorning': '${distanceOrTime} Early '
+                                                'Morning Sport Bike Ride',
+                                'evening': '${distanceOrTime} Evening Sport '
+                                           'Bike Ride',
+                                'lateEvening': '${distanceOrTime} Late Evening '
+                                               'Sport Bike Ride',
+                                'morning': '${distanceOrTime} Morning Sport '
+                                           'Bike Ride',
+                                'night': '${distanceOrTime} Night Sport Bike '
+                                         'Ride',
+                                'noon': '${distanceOrTime} Noon Sport Bike '
+                                        'Ride'},
+                   'title': 'Cycling, sport',
+                   'verb': {'present': {'female': 'cycling',
+                                        'male': 'cycling',
+                                        'part': 'cycling'}}},
+ 'CYCLING_TRANSPORTATION': {'activity': {'afterNoon': '${distanceOrTime} '
+                                                      'Afternoon Cycling '
+                                                      'Commute',
+                                         'earlyMorning': '${distanceOrTime} '
+                                                         'Early Morning '
+                                                         'Cycling Commute',
+                                         'evening': '${distanceOrTime} Evening '
+                                                    'Cycling Commute',
+                                         'lateEvening': '${distanceOrTime} '
+                                                        'Late Evening Cycling '
+                                                        'Commute',
+                                         'morning': '${distanceOrTime} Morning '
+                                                    'Cycling Commute',
+                                         'night': '${distanceOrTime} Night '
+                                                  'Cycling Commute',
+                                         'noon': '${distanceOrTime} Noon '
+                                                 'Cycling Commute'},
+                            'title': 'Cycling, transport',
+                            'verb': {'present': {'female': 'cycling',
+                                                 'male': 'cycling',
+                                                 'part': 'cycling'}}},
+ 'DANCE_FIT': {'title': 'Dance Fit'},
+ 'DANCING': {'title': 'Dancing'},
+ 'DRAGON_BOAT': {'title': 'Dragonboat'},
+ 'FABULOUS': {'title': 'FaBulouS - Flexibility, Balance and Strength Routine'},
+ 'FENCING': {'title': 'Fencing'},
+ 'FITNESS_WALKING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                               'Fitness Walk',
+                                  'earlyMorning': '${distanceOrTime} Early '
+                                                  'Morning Fitness Walk',
+                                  'evening': '${distanceOrTime} Evening '
+                                             'Fitness Walk',
+                                  'lateEvening': '${distanceOrTime} Late '
+                                                 'Evening Fitness Walk',
+                                  'morning': '${distanceOrTime} Morning '
+                                             'Fitness Walk',
+                                  'night': '${distanceOrTime} Night Fitness '
+                                           'Walk',
+                                  'noon': '${distanceOrTime} Noon Fitness '
+                                          'Walk'},
+                     'title': 'Fitness Walking',
+                     'verb': {'present': {'female': 'walking',
+                                          'male': 'walking',
+                                          'part': 'walking'}}},
+ 'FLOOR_BALL': {'title': 'Floorball'},
+ 'GARDENING': {'title': 'Gardening'},
+ 'GOLFING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Golf',
+                          'earlyMorning': '${distanceOrTime} Early Morning '
+                                          'Golf',
+                          'evening': '${distanceOrTime} Evening Golf',
+                          'lateEvening': '${distanceOrTime} Late Evening Golf',
+                          'morning': '${distanceOrTime} Morning Golf',
+                          'night': '${distanceOrTime} Night Golf',
+                          'noon': '${distanceOrTime} Noon Golf'},
+             'title': 'Golfing',
+             'verb': {'present': {'female': 'golfing',
+                                  'male': 'golfing',
+                                  'part': 'golfing'}}},
+ 'GYMNASTICS': {'title': 'Gymnastics'},
+ 'HANDBALL': {'title': 'Handball'},
+ 'HEALTH_QIGONG': {'title': 'Health Qigong'},
+ 'HIKING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Hike',
+                         'earlyMorning': '${distanceOrTime} Early Morning Hike',
+                         'evening': '${distanceOrTime} Evening Hike',
+                         'lateEvening': '${distanceOrTime} Late Evening Hike',
+                         'morning': '${distanceOrTime} Morning Hike',
+                         'night': '${distanceOrTime} Night Hike',
+                         'noon': '${distanceOrTime} Noon Hike'},
+            'title': 'Hiking',
+            'verb': {'present': {'female': 'hiking',
+                                 'male': 'hiking',
+                                 'part': 'hiking'}}},
+ 'HOCKEY': {'title': 'Hockey'},
+ 'HOUSEHOLD_CHORES_LIGHT': {'title': 'Household Chores - Light'},
+ 'HOUSEHOLD_CHORES_MODERATE': {'title': 'Household Chores - Moderate'},
+ 'JUMPING_ROPE': {'title': 'Jumping Rope'},
+ 'KAYAKING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Kayaking',
+                           'earlyMorning': '${distanceOrTime} Early Morning '
+                                           'Kayaking',
+                           'evening': '${distanceOrTime} Evening Kayaking',
+                           'lateEvening': '${distanceOrTime} Late Evening '
+                                          'Kayaking',
+                           'morning': '${distanceOrTime} Morning Kayaking',
+                           'night': '${distanceOrTime} Night Kayaking',
+                           'noon': '${distanceOrTime} Noon Kayaking'},
+              'title': 'Kayaking',
+              'verb': {'present': {'female': 'kayaking',
+                                   'male': 'kayaking',
+                                   'part': 'kayaking'}}},
+ 'KITE_SURFING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Kite '
+                                            'Surfing',
+                               'earlyMorning': '${distanceOrTime} Early '
+                                               'Morning Kite Surfing',
+                               'evening': '${distanceOrTime} Evening Kite '
+                                          'Surfing',
+                               'lateEvening': '${distanceOrTime} Late Evening '
+                                              'Kite Surfing',
+                               'morning': '${distanceOrTime} Morning Kite '
+                                          'Surfing',
+                               'night': '${distanceOrTime} Night Kite Surfing',
+                               'noon': '${distanceOrTime} Noon Kite Surfing'},
+                  'title': 'Kite Surfing',
+                  'verb': {'present': {'female': 'surfing',
+                                       'male': 'surfing',
+                                       'part': 'surfing'}}},
+ 'LINE_DANCING': {'title': 'Line Dancing'},
+ 'LION_DANCING': {'title': 'Lion Dancing'},
+ 'MARTIAL_ARTS': {'title': 'Martial arts'},
+ 'MOUNTAIN_BIKING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                               'Mountain Bike Ride',
+                                  'earlyMorning': '${distanceOrTime} Early '
+                                                  'Morning Mountain Bike Ride',
+                                  'evening': '${distanceOrTime} Evening '
+                                             'Mountain Bike Ride',
+                                  'lateEvening': '${distanceOrTime} Late '
+                                                 'Evening Mountain Bike Ride',
+                                  'morning': '${distanceOrTime} Morning '
+                                             'Mountain Bike Ride',
+                                  'night': '${distanceOrTime} Night Mountain '
+                                           'Bike Ride',
+                                  'noon': '${distanceOrTime} Noon Mountain '
+                                          'Bike Ride'},
+                     'title': 'Mountain Biking',
+                     'verb': {'present': {'female': 'mountain biking',
+                                          'male': 'mountain biking',
+                                          'part': 'mountain biking'}}},
+ 'NET_BALL': {'title': 'Netball'},
+ 'ORIENTEERING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                            'Orienteering',
+                               'earlyMorning': '${distanceOrTime} Early '
+                                               'Morning Orienteering',
+                               'evening': '${distanceOrTime} Evening '
+                                          'Orienteering',
+                               'lateEvening': '${distanceOrTime} Late Evening '
+                                              'Orienteering',
+                               'morning': '${distanceOrTime} Morning '
+                                          'Orienteering',
+                               'night': '${distanceOrTime} Night Orienteering',
+                               'noon': '${distanceOrTime} Noon Orienteering'},
+                  'title': 'Orienteering',
+                  'verb': {'present': {'female': 'orienteering',
+                                       'male': 'orienteering',
+                                       'part': 'orienteering'}}},
+ 'OTHER': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Workout',
+                        'earlyMorning': '${distanceOrTime} Early Morning '
+                                        'Workout',
+                        'evening': '${distanceOrTime} Evening Workout',
+                        'lateEvening': '${distanceOrTime} Late Evening Workout',
+                        'morning': '${distanceOrTime} Morning Workout',
+                        'night': '${distanceOrTime} Night Workout',
+                        'noon': '${distanceOrTime} Noon Workout'},
+           'title': 'Other',
+           'verb': {'present': {'female': 'exercising',
+                                'male': 'exercising',
+                                'part': 'exercising'}}},
+ 'PICKLEBALL': {'title': 'Pickleball'},
+ 'PILATES': {'title': 'Pilates'},
+ 'POLO': {'title': 'Polo'},
+ 'QIGONG': {'title': 'Qigong'},
+ 'QUICK_SIX': {'title': 'Quick Six'},
+ 'RIDING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Ride',
+                         'earlyMorning': '${distanceOrTime} Early Morning Ride',
+                         'evening': '${distanceOrTime} Evening Ride',
+                         'lateEvening': '${distanceOrTime} Late Evening Ride',
+                         'morning': '${distanceOrTime} Morning Ride',
+                         'night': '${distanceOrTime} Night Ride',
+                         'noon': '${distanceOrTime} Noon Ride'},
+            'title': 'Riding',
+            'verb': {'present': {'female': 'riding',
+                                 'male': 'riding',
+                                 'part': 'riding'}}},
+ 'ROCK_CLIMBING': {'title': 'Rock Climbing'},
+ 'ROLLER_SKIING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                             'Roller Skiing',
+                                'earlyMorning': '${distanceOrTime} Early '
+                                                'Morning Roller Skiing',
+                                'evening': '${distanceOrTime} Evening Roller '
+                                           'Skiing',
+                                'lateEvening': '${distanceOrTime} Late Evening '
+                                               'Roller Skiing',
+                                'morning': '${distanceOrTime} Morning Roller '
+                                           'Skiing',
+                                'night': '${distanceOrTime} Night Roller '
+                                         'Skiing',
+                                'noon': '${distanceOrTime} Noon Roller Skiing'},
+                   'title': 'Roller skiing',
+                   'verb': {'present': {'female': 'roller skiing',
+                                        'male': 'roller skiing',
+                                        'part': 'roller skiing'}}},
+ 'ROWING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Row',
+                         'earlyMorning': '${distanceOrTime} Early Morning Row',
+                         'evening': '${distanceOrTime} Evening Row',
+                         'lateEvening': '${distanceOrTime} Late Evening Row',
+                         'morning': '${distanceOrTime} Morning Row',
+                         'night': '${distanceOrTime} Night Row',
+                         'noon': '${distanceOrTime} Noon Row'},
+            'title': 'Rowing',
+            'verb': {'present': {'female': 'rowing',
+                                 'male': 'rowing',
+                                 'part': 'rowing'}}},
+ 'RUGBY': {'title': 'Football, rugby'},
+ 'RUNNING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Run',
+                          'earlyMorning': '${distanceOrTime} Early Morning Run',
+                          'evening': '${distanceOrTime} Evening Run',
+                          'lateEvening': '${distanceOrTime} Late Evening Run',
+                          'morning': '${distanceOrTime} Morning Run',
+                          'night': '${distanceOrTime} Night Run',
+                          'noon': '${distanceOrTime} Noon Run'},
+             'title': 'Running',
+             'verb': {'present': {'female': 'running',
+                                  'male': 'running',
+                                  'part': 'running'}}},
+ 'SAILING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Sailing',
+                          'earlyMorning': '${distanceOrTime} Early Morning '
+                                          'Sailing',
+                          'evening': '${distanceOrTime} Evening Sailing',
+                          'lateEvening': '${distanceOrTime} Late Evening '
+                                         'Sailing',
+                          'morning': '${distanceOrTime} Morning Sailing',
+                          'night': '${distanceOrTime} Night Sailing',
+                          'noon': '${distanceOrTime} Noon Sailing'},
+             'title': 'Sailing',
+             'verb': {'present': {'female': 'sailing',
+                                  'male': 'sailing',
+                                  'part': 'sailing'}}},
+ 'SCUBA_DIVING': {'title': 'Scuba diving'},
+ 'SEPAK_TAKRAW': {'title': 'Sepak Takraw'},
+ 'SHOOTING': {'title': 'Shooting'},
+ 'SINGAPORE_WORKOUT': {'title': 'New Great Singapore Workout'},
+ 'SKATEBOARDING': {'title': 'Skateboarding'},
+ 'SKATING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Skating',
+                          'earlyMorning': '${distanceOrTime} Early Morning '
+                                          'Skating',
+                          'evening': '${distanceOrTime} Evening Skating',
+                          'lateEvening': '${distanceOrTime} Late Evening '
+                                         'Skating',
+                          'morning': '${distanceOrTime} Morning Skating',
+                          'night': '${distanceOrTime} Night Skating',
+                          'noon': '${distanceOrTime} Noon Skating'},
+             'title': 'Skating',
+             'verb': {'present': {'female': 'skating',
+                                  'male': 'skating',
+                                  'part': 'skating'}}},
+ 'SKIING_CROSS_COUNTRY': {'activity': {'afterNoon': '${distanceOrTime} '
+                                                    'Afternoon Cross-Country '
+                                                    'Skiing',
+                                       'earlyMorning': '${distanceOrTime} '
+                                                       'Early Morning '
+                                                       'Cross-Country Skiing',
+                                       'evening': '${distanceOrTime} Evening '
+                                                  'Cross-Country Skiing',
+                                       'lateEvening': '${distanceOrTime} Late '
+                                                      'Evening Cross-Country '
+                                                      'Skiing',
+                                       'morning': '${distanceOrTime} Morning '
+                                                  'Cross-Country Skiing',
+                                       'night': '${distanceOrTime} Night '
+                                                'Cross-Country Skiing',
+                                       'noon': '${distanceOrTime} Noon '
+                                               'Cross-Country Skiing'},
+                          'title': 'Skiing, cross country',
+                          'verb': {'present': {'female': 'skiing',
+                                               'male': 'skiing',
+                                               'part': 'skiing'}}},
+ 'SKIING_DOWNHILL': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                               'Downhill Skiing',
+                                  'earlyMorning': '${distanceOrTime} Early '
+                                                  'Morning Downhill Skiing',
+                                  'evening': '${distanceOrTime} Evening '
+                                             'Downhill Skiing',
+                                  'lateEvening': '${distanceOrTime} Late '
+                                                 'Evening Downhill Skiing',
+                                  'morning': '${distanceOrTime} Morning '
+                                             'Downhill Skiing',
+                                  'night': '${distanceOrTime} Night Downhill '
+                                           'Skiing',
+                                  'noon': '${distanceOrTime} Noon Downhill '
+                                          'Skiing'},
+                     'title': 'Skiing, downhill',
+                     'verb': {'present': {'female': 'skiing',
+                                          'male': 'skiing',
+                                          'part': 'skiing'}}},
+ 'SNOWBOARDING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                            'Kayaking',
+                               'earlyMorning': '${distanceOrTime} Early '
+                                               'Morning Snowboarding',
+                               'evening': '${distanceOrTime} Evening '
+                                          'Snowboarding',
+                               'lateEvening': '${distanceOrTime} Late Evening '
+                                              'Snowboarding',
+                               'morning': '${distanceOrTime} Morning '
+                                          'Snowboarding',
+                               'night': '${distanceOrTime} Night Snowboarding',
+                               'noon': '${distanceOrTime} Noon Kayaking'},
+                  'title': 'Snowboarding',
+                  'verb': {'present': {'female': 'snowboarding',
+                                       'male': 'snowboarding',
+                                       'part': 'snowboarding'}}},
+ 'SNOWSHOEING': {'title': 'Snowshoeing'},
+ 'SOCCER': {'title': 'Football, soccer'},
+ 'SOFTBALL': {'title': 'Softball'},
+ 'SPINNING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Spin',
+                           'earlyMorning': '${distanceOrTime} Early Morning '
+                                           'Spin',
+                           'evening': '${distanceOrTime} Evening Spin',
+                           'lateEvening': '${distanceOrTime} Late Evening Spin',
+                           'morning': '${distanceOrTime} Morning Spin',
+                           'night': '${distanceOrTime} Night Spin',
+                           'noon': '${distanceOrTime} Noon Spin'},
+              'title': 'Indoor cycling',
+              'verb': {'present': {'female': 'cycling',
+                                   'male': 'cycling',
+                                   'part': 'cycling'}}},
+ 'SQUASH': {'title': 'Squash'},
+ 'STAIR_CLIMBING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                              'Stair Climb',
+                                 'earlyMorning': '${distanceOrTime} Early '
+                                                 'Morning Stair Climb',
+                                 'evening': '${distanceOrTime} Evening Stair '
+                                            'Climb',
+                                 'lateEvening': '${distanceOrTime} Late '
+                                                'Evening Stair Climb',
+                                 'morning': '${distanceOrTime} Morning Stair '
+                                            'Climb',
+                                 'night': '${distanceOrTime} Night Stair Climb',
+                                 'noon': '${distanceOrTime} Noon Stair Climb'},
+                    'title': 'Stair Climbing',
+                    'verb': {'present': {'female': 'climbing stairs',
+                                         'male': 'climbing stairs',
+                                         'part': 'climbing stairs'}}},
+ 'STEP_COUNTER': {'title': 'Step counter'},
+ 'STROLLING': {'title': 'Strolling in the Mall or Outdoors'},
+ 'SURFING': {'title': 'Surfing'},
+ 'SWIMMING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Swim',
+                           'earlyMorning': '${distanceOrTime} Early Morning '
+                                           'Swim',
+                           'evening': '${distanceOrTime} Evening Swim',
+                           'lateEvening': '${distanceOrTime} Late Evening Swim',
+                           'morning': '${distanceOrTime} Morning Swim',
+                           'night': '${distanceOrTime} Night Swim',
+                           'noon': '${distanceOrTime} Noon Swim'},
+              'title': 'Swimming',
+              'verb': {'present': {'female': 'swimming',
+                                   'male': 'swimming',
+                                   'part': 'swimming'}}},
+ 'TABLE_TENNIS': {'title': 'Table tennis'},
+ 'TAICHI': {'title': 'Taichi'},
+ 'TENNIS': {'title': 'Tennis'},
+ 'TOUCH_RUGBY': {'title': 'Touch Rugby'},
+ 'TREADMILL_RUNNING': {'title': 'Treadmill running'},
+ 'TREADMILL_WALKING': {'title': 'Treadmill walking'},
+ 'TREKKING': {'title': 'Trekking'},
+ 'TRIATHLON': {'title': 'Triathlon'},
+ 'ULTIMATE_FRISBEE': {'title': 'Ultimate Frisbee'},
+ 'VOLLEYBALL': {'title': 'Volleyball, indoor'},
+ 'WALKING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon Walk',
+                          'earlyMorning': '${distanceOrTime} Early Morning '
+                                          'Walk',
+                          'evening': '${distanceOrTime} Evening Walk',
+                          'lateEvening': '${distanceOrTime} Late Evening Walk',
+                          'morning': '${distanceOrTime} Morning Walk',
+                          'night': '${distanceOrTime} Night Walk',
+                          'noon': '${distanceOrTime} Noon Walk'},
+             'title': 'Walking',
+             'verb': {'present': {'female': 'walking',
+                                  'male': 'walking',
+                                  'part': 'walking'}}},
+ 'WALKING_TRANSPORTATION': {'title': 'Walking, transport'},
+ 'WEIGHT_LIFTING': {'title': 'Weight lifting'},
+ 'WEIGHT_TRAINING': {'title': 'Weight training'},
+ 'WHEELCHAIR': {'title': 'Wheelchair'},
+ 'WINDSURFING': {'activity': {'afterNoon': '${distanceOrTime} Afternoon '
+                                           'Windsurfing',
+                              'earlyMorning': '${distanceOrTime} Early Morning '
+                                              'Windsurfing',
+                              'evening': '${distanceOrTime} Evening '
+                                         'Windsurfing',
+                              'lateEvening': '${distanceOrTime} Late Evening '
+                                             'Windsurfing',
+                              'morning': '${distanceOrTime} Morning '
+                                         'Windsurfing',
+                              'night': '${distanceOrTime} Night Windsurfing',
+                              'noon': '${distanceOrTime} Noon Windsurfing'},
+                 'title': 'Windsurfing',
+                 'verb': {'present': {'female': 'windsurfing',
+                                      'male': 'windsurfing',
+                                      'part': 'windsurfing'}}},
+ 'YOGA': {'title': 'Yoga'},
+ '_id': ObjectId('58a57a0099e7520b57259602')}
